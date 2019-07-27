@@ -12,6 +12,7 @@ mongo db sample
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/mongo_3
 
 ***
 
